@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+  background-color: rgb(69, 69, 70);
+  background-image: linear-gradient( to left, rgb(68, 67, 67), transparent, rgb(107, 106, 106) );;
+}
+
+
